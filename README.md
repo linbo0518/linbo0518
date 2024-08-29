@@ -4,6 +4,4 @@ Leon is currently a Research Associate at MEGVII. Prior to joining MEGVII, he re
 
 Leon’s interests are computer vision, deep learning, and machine learning.
 
-![linbo0518's github metrics](https://metrics.lecoq.io/linbo0518?template=classic&config.timezone=Asia%2FShanghai)
-
 ![linbo0518's github stats](https://github-readme-stats.vercel.app/api?username=linbo0518&show_icons=true&hide_border=true)
